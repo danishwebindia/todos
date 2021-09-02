@@ -20,6 +20,12 @@ h1 {
   padding: 15px 15px;
 }
 
+.heading {
+  text-align: center;
+  color: #FFF;
+  text-shadow:2px 2px rgb(107, 49, 241) ;
+}
+
 .btn {
   background: rgb(241, 88, 88);
   color: #FFF;
@@ -31,4 +37,7 @@ h1 {
 }
 
 .btn-xs{padding:4px 7px; font-size: 11px; float: right; margin-top: -18px;}
+.btn-add{text-align: right;}
+.btn-add .btn, .btn-green{background: rgb(71, 146, 104);}
 .txt-right{text-align: right;}
+.input {padding: 7px 15px;border-radius: 15px;border: none; width: 56%;}
